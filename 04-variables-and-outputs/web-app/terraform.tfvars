@@ -1,5 +1,6 @@
-bucket_name = "devops-directive-web-app-data"
+bucket_name = "harish-devops-directive-web-app-data"
 domain      = "devopsdeployed.com"
 db_name     = "mydb"
 db_user     = "foo"
-# db_pass = "foobarbaz"
+ami         = "ami-04505e74c0741db8d"
+db_pass = "foobarbaz"
